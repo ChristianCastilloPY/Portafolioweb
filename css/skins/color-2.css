@@ -1,0 +1,7 @@
+/* root selecciona el elemento raiz del deocumento,
+en este caso seria el HTML */
+
+:root{
+    /* --skin-color es una variable global */
+    --skin-color: #ec9412;
+}
